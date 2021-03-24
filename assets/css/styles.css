@@ -1,0 +1,1159 @@
+@media (max-width: 1920px) {
+	.wrapper_center {
+		margin: 0 0 0 45%;
+	}
+	body {
+		/*width: 1920px;*/
+		font-family: 'Montserrat', sans-serif;
+	}
+	.body_fs12 {
+		font-size: 12px;
+	}
+	.body_fs14 {
+		font-size: 14px;
+	}
+	.body_fs15 {
+		font-size: 15px;
+	}
+	.body_fs20 {
+		font-size: 20px;
+	}
+	.body_fs24 {
+		font-size: 24px;
+	}
+	.body_c-w {
+		color: white;
+	}
+	.body_fw400 {
+		font-weight: 400;
+	}
+	.body_fw500 {
+		font-weight: 500;
+	}
+	.body_fw600 {
+		font-weight: 600;
+	}
+	.logo_row{
+		display: flex;
+		flex-direction: row;
+	}
+	.logo__delivery_margin {
+		margin: 25px 0px 0 87px;
+	}
+	.logo__date_mod {
+		margin: 25px 0px 0 7px;
+		color: #429F3A;
+	}
+	.logo__line1_mod {
+		height: 30px;
+		margin: 18px 0 0 16px;
+	}
+	.logo__line2_mod {
+		height: 30px;
+		margin: 18px 0 0 17px;
+	}
+	.logo__logo_margin {
+		margin: -4px 0px 0 -433px;
+	}
+	.logo__stocks_margin {
+		margin: 25px 0 0 262px;
+	}
+	.logo__prime_margin {
+		margin: 25px 0 0 14px;
+	}
+	.logo__about_margin {
+		margin: 25px 0 0 14px;
+	}
+	.catalog-inside_row {
+		display: flex;
+		flex-direction: row;
+	}
+	.catalog__rect_margin {
+		margin: 4px 0 0 -432px;
+	}
+	.catalog-inside__hamburger_properties {
+		margin: -41px 0 0 -412px;
+		width: 24px;
+		height: 24px;
+	}
+	.catalog-inside__catalog_margin {
+		margin: -39px 0 0 23px;
+	}
+	.catalog-inside__rect_properties {
+		width: 405px;
+		height: 41px;
+		margin: -49px 0 0 25px;
+	}
+	.catalog-inside__search_properties {
+		margin: -37px 0 0 -383px;
+		color: #B2B2B2;
+	}
+	.catalog-inside__btn_properties {
+		margin: -40px 0 0 61px;
+		width: 22px;
+		height: 22px;
+	}
+	.catalog-inside__btn2_properties {
+		margin: -44px 0 0 40px;
+		width: 214px;
+		height: 30px;
+	}
+	.catalog-inside__user_properties {
+		margin: -39px 0 0 24px;
+		width: 21px;
+		height: 20px;
+	}
+	.catalog-inside__basket_properties {
+		margin: -39px 0 0 24px;
+		width: 21px;
+		height: 21px;
+	}
+	.catalog-inside__amount_margin {
+		margin: -39px 0 0 24px;
+	}
+	.milk_row {
+		display: flex;
+		flex-direction: row;
+	}
+	.milk__left_properties {
+		width: 24px;
+		height: 24px;
+		margin: 13px 0 0 -432px;
+	}
+	.milk__milk_properties {
+		margin: 16px 0 0 21px;
+		color: #ED6E1E;
+	}
+	.milk__bread_properties {
+		margin: 16px 0 0 26px;
+		color: #ED6E1E;
+	}
+	.milk__meat_properties {
+		margin: 16px 0 0 27px;
+		color: #ED6E1E;
+	}
+	.milk__cheese_properties {
+		margin: 16px 0 0 31px;
+		color: #444444;
+	}
+	.milk__vegetables_properties {
+		margin: 16px 0 0 26px;
+		color: #444444;
+	}
+	.milk__butter_properties {
+		margin: 16px 0 0 37px;
+		color: #444444;
+	}
+	.milk__potato_properties {
+		margin: 16px 0 0 35px;
+		color: #444444;
+	}
+	.milk__eggs_properties {
+		margin: 16px 0 0 26px;
+		color: #444444;
+	}
+	.milk__sweets_properties {
+		margin: 16px 0 0 27px;
+		color: #444444;
+	}
+	.milk__curd_properties {
+		margin: 16px 0 0 25px;
+		color: #444444;
+	}
+	.milk__kefir_properties {
+		margin: 16px 0 0 27px;
+		color: #444444;
+	}
+	.milk__water_properties {
+		margin: 16px 0 0 26px;
+		color: #444444;
+	}
+	.milk__right_properties {
+		width: 24px;
+		height: 24px;
+		margin: 13px 0 0 33px;
+	}
+	.try_column {
+		display: flex;
+		flex-direction: column;
+	}
+	.img_row {
+		display: flex;
+		flex-direction: row;
+	}
+	.pic__carrot_properties {
+		margin: 17px 0 0 -432px;
+	}
+	.pic__greenery_properties {
+		margin: -215px 0 0 -14px;
+		font-weight: 600;
+		text-align: center;
+	}
+	.pic__basket_properties {
+		position: relative;
+		top: -16px;
+		left: 160px;
+	}
+	.pic__arrows_properties {
+		margin: 103px 0 0 213px;
+	}
+	.scroll_properties {
+		list-style-type: none;
+		color: #444444;
+		margin: 17px 0 0 -40px;
+		height: 295px;
+		overflow-y: scroll;
+	}
+/*Стилизация скролла*/
+::-webkit-scrollbar-button {
+background-image:url('');
+background-repeat:no-repeat;
+width:5px;
+height:0px;
+}
+::-webkit-scrollbar-track {
+background-color: #DDD9D9;
+}
+::-webkit-scrollbar-thumb {
+-webkit-border-radius: 0px;
+border-radius: 0px;
+background-color: rgba(66, 159, 58, 0.6);
+}
+::-webkit-scrollbar-thumb:hover{
+background-color:rgba(66, 159, 58, 0.6);
+}
+::-webkit-resizer{
+background-image:url('');
+background-repeat:no-repeat;
+width:4px;
+height:0px;
+}
+::-webkit-scrollbar{
+width: 4px;
+}
+	.scroll__super__text_properties {
+		margin: -37px 0 0 13px;
+	}
+	.scroll__breakfast__pic_properties {
+		margin: 16px 0 0 0;
+	}
+	.scroll__breakfast__text_properties {
+		margin: -37px 0 0 14px;
+	}
+	.min_row {
+		display: flex;
+		flex-direction: row;
+	}
+	.min__sum_properties {
+		color: #043E44;
+		margin: 12px 0 0 5px;
+	}
+	.min__line_properties {
+		height: 30px;
+		margin: 5px 0 0 18px;
+	}
+	.min__delivery_properties {
+		color: #043E44;
+		margin: 12px 0 0 14px;
+	}
+	.pop__title_row {
+		display: flex;
+		flex-direction: row;
+	}
+	.pop__title__products_properties {
+		color: #121212;
+		margin: 17px 0 0 -434px;
+		letter-spacing: -0.45px;
+	}
+	.pop__title__pic_properties {
+		width: 80px;
+		height: 35px;
+		margin: 15px 0 0 732px;
+	}
+	.pop__card_row {
+		display: flex;
+		flex-direction: row;
+	}
+	.pop__card__milk_column {
+		display: flex;
+		flex-direction: column;
+	}
+	.pop__card__milk__pic_properties {
+		margin: 16px 0 0 -432px;
+		width: 250px;
+		height: 381px;
+	}
+	.pop__card__milk__heart_properties {
+		width: 20px;
+		height: 18,35px;
+		margin: -365px 0 0 -218px;
+	}
+	.pop__card__milk__name_properties {
+		margin: 214px 0 0 -420px;
+		color: #424141;
+	}
+	.pop__card__milk__provider_properties {
+		color: #89817F;
+		margin: 9px 0 0 -420px;
+	}
+	.pop__card__milk__price__rubles_properties {
+		color: #3D3C3C;
+		position: relative;
+		top: 11px;
+		left: -419px;
+	}
+	.pop__card__milk__price__liters_properties {
+		color: #3D3C3C;
+		position: relative;
+		top: 11px;
+		left: -420px;
+	}
+	.pop__card__milk__stars_properties {
+		margin: 5px 0 0 -418px;
+		width: 83.11px;
+		height: 10.17px;
+	}
+	.pop__card__milk__basket_properties {
+		width: 66px;
+		height: 36px;
+		margin: -50px 0 0 -249px;
+	}
+	.pop__card__bread_column {
+		display: flex;
+		flex-direction: column;
+	}
+	.pop__card__bread__pic_properties {
+		margin: 16px 0 0 -251px;
+		width: 250px;
+		height: 381px;
+	}
+	.pop__card__bread__heart_properties {
+		width: 20px;
+		height: 18,35px;
+		margin: -365px 0 0 -37px;
+	}
+	.pop__card__bread__name_properties {
+		margin: 214px 0 0 -240px;
+		color: #424141;
+	}
+	.pop__card__bread__provider_properties {
+		color: #89817F;
+		margin: 9px 0 0 -240px;
+	}
+	.pop__card__bread__price__rubles_properties {
+		color: #3D3C3C;
+		position: relative;
+		top: 11px;
+		left: -239px;
+	}
+	.pop__card__bread__price__grams_properties {
+		color: #3D3C3C;
+		position: relative;
+		top: 11px;
+		left: -240px;
+	}
+	.pop__card__bread__stars_properties {
+		margin: 5px 0 0 -238px;
+		width: 83.11px;
+		height: 10.17px;
+	}
+	.pop__card__bread__basket_properties {
+		width: 66px;
+		height: 36px;
+		margin: -50px 0 0 -68px;
+	}
+	.pop__card__eggs_column {
+		display: flex;
+		flex-direction: column;
+	}
+	.pop__card__eggs__pic_properties {
+		margin: 16px 0 0 -67px;
+		width: 250px;
+		height: 381px;
+	}
+	.pop__card__eggs__heart_properties {
+		width: 20px;
+		height: 18,35px;
+		margin: -365px 0 0 147px;
+	}
+	.pop__card__eggs__name_properties {
+		margin: 214px 0 0 -55px;
+		color: #424141;
+	}
+	.pop__card__eggs__provider_properties {
+		color: #89817F;
+		margin: 9px 0 0 -55px;
+	}
+	.pop__card__eggs__price__rubles_properties {
+		color: #3D3C3C;
+		position: relative;
+		top: 11px;
+		left: -54px;
+	}
+	.pop__card__eggs__price__quantity_properties {
+		color: #3D3C3C;
+		position: relative;
+		top: 11px;
+		left: -55px;
+	}
+	.pop__card__eggs__stars_properties {
+		margin: 5px 0 0 -54px;
+		width: 83.11px;
+		height: 10.17px;
+	}
+	.pop__card__eggs__basket_properties {
+		width: 66px;
+		height: 36px;
+		margin: -50px 0 0 116px;
+	}
+	.pop__card__butter_column {
+		display: flex;
+		flex-direction: column;
+	}
+	.pop__card__butter__pic_properties {
+		margin: 16px 0 0 22px;
+		width: 250px;
+		height: 381px;
+	}
+	.pop__card__butter__heart_properties {
+		width: 20px;
+		height: 18,35px;
+		margin: -365px 0 0 236px;
+	}
+	.pop__card__butter__name_properties {
+		margin: 214px 0 0 34px;
+		color: #424141;
+	}
+	.pop__card__butter__provider_properties {
+		color: #89817F;
+		margin: 9px 0 0 34px;
+	}
+	.pop__card__butter__price__rubles_properties {
+		color: #3D3C3C;
+		position: relative;
+		top: 11px;
+		left: 35px;
+	}
+	.pop__card__butter__price__grams_properties {
+		color: #3D3C3C;
+		position: relative;
+		top: 11px;
+		left: 35px;
+	}
+	.pop__card__butter__stars_properties {
+		margin: 5px 0 0 35px;
+		width: 83.11px;
+		height: 10.17px;
+	}
+	.pop__card__butter__basket_properties {
+		width: 66px;
+		height: 36px;
+		margin: -50px 0 0 205px;
+	}
+	.video__fresh_properties {
+		color: #121212;
+		margin: 78px 0 0 -435px;
+		letter-spacing: -0.6px;
+	}
+	.video__pic_properties {
+		margin: 20px 0 0 -432px;
+	}
+	.video__btn_properties {
+		position: relative;
+		left: -624px;
+		top: -87px;
+	}
+	.recipes_row, .recipes__ingredients__title {
+		display: flex;
+		flex-direction: row;
+	}
+	.recipes__ingredients_column, .recipes__HLS_column {
+		display: flex;
+		flex-direction: column;
+	}
+	.recipes__ingredients__title__name_properties {
+		color: #121212;
+		margin: 49px 0 0 -435px;
+		letter-spacing: -0.6px;
+	}
+	.recipes__ingredients__title__pic_properties {
+		width: 80px;
+		height: 35px;
+		margin: 46px 0 0 336px;
+	}
+	.recipes__ingredients__content__pic_properties {
+		margin: 17px 0 0 -432px;
+	}
+	.recipes__ingredients__content__breakfast_properties {
+		width: 460px;
+		height: 80px;
+		position: relative;
+		left: -500px;
+		top: -258px;
+	}
+	.recipes__ingredients__content__background_properties {
+		width: 254px;
+		height: 80px;
+		position: relative;
+		left: -964px;
+		top: -34px;
+	}
+	.recipes__ingredients__content__cabbage_properties {
+		width: 53px;
+		height: 52px;
+		position: relative;
+		left: -1199px;
+		top: -48px;
+	}
+	.recipes__ingredients__content__tomatoes_properties {
+		width: 53px;
+		height: 52px;
+		position: relative;
+		left: -305px;
+		top: -104px;
+	}	
+	.recipes__ingredients__content__eggs_properties	  {
+		width: 53px;
+		height: 52px;
+		position: relative;
+		left: -286px;
+		top: -104px;
+	}
+	.recipes__ingredients__content__right_properties {
+		width: 6.51px;
+		height: 12.89px;
+		position: relative;
+		left: -281px;
+		top: -123px;
+	}
+	.recipes__ingredients__content__btn_properties {
+		width: 184px;
+		height: 39.79px;
+		position: relative;
+		left: -255px;
+		top: -110px;
+	}
+	.recipes__HLS__title_row, .recipes__HLS__content_row {
+		display: flex;
+		flex-direction: row;
+	}
+	.recipes__HLS__title__name_properties {
+		color: #121212;
+		margin: 49px 0 0 -792px;
+	}
+	.recipes__HLS__title__pic_properties {
+		width: 80px;
+		height: 35px;
+		margin: 46px 0 0 383px;
+	}
+	.recipes__HLS__content__duck_column, .recipes__HLS__content__chicken_column {
+		display: flex;
+		flex-direction: column;	
+	}
+	.recipes__HLS__content__duck_properties {
+		position: relative;
+		left: 59px;
+	}
+	.recipes__HLS__content__duck__pic_properties {
+		width: 250px;
+		height: 381px;
+		margin: 17px 0 0 -850px;
+	}
+	.recipes__HLS__content__duck__heart_properties {
+		width: 20px;
+		height: 18,35px;
+		margin: -362px 0 0 -638px;
+	}
+	.recipes__HLS__content__duck__name_properties {
+		margin: 211px 0 0 -838px;
+	}
+	.recipes__HLS__content__duck__provider_properties {
+		margin: 9px 0 0 -838px;
+	}
+	.recipes__HLS__content__duck__price__before_properties {
+		text-decoration: line-through;
+		color: #FC1F1C;
+		position: relative;
+		left: -838px;
+		top: -11px;
+	}
+	.recipes__HLS__content__duck__price__before__number_properties {
+		color: #000000;
+	}
+	.recipes__HLS__content__duck__price__rubles_properties {
+		position: relative;
+		left: -877px;
+		top: 11px;
+		color: #FC1F1C;
+	}
+	.recipes__HLS__content__duck__price__grams_properties {
+		position: relative;
+		left: -777px;
+		top: -9px;
+	}
+	.recipes__HLS__content__duck__stars_properties {
+		position: relative;
+		left: -837px;
+		top: -14px;
+		width: 83.11px;
+		height: 10.17px;
+	}
+	.recipes__HLS__content__duck__basket_properties {
+		width: 66px;
+		height: 36px;
+		position: relative;
+		left: -667px;
+		top: -64px;
+	}
+	.recipes__HLS__content__chicken__pic_properties {
+		width: 250px;
+		height: 381px;
+		margin: 17px 0 0 -850px;
+	}
+	.recipes__HLS__content__chicken__heart_properties {
+		width: 20px;
+		height: 18,35px;
+		margin: -365px 0 0 -636px;
+	}
+	.recipes__HLS__content__chicken__name_properties {
+		margin: 214px 0 0 -839px;
+	}
+	.recipes__HLS__content__chicken__provider_properties {
+		margin: 9px 0 0 -837px;
+	}
+	.recipes__HLS__content__chicken__price__rubles_properties {
+		position: relative;
+		left: -837px;
+		top: 11px;
+	}
+	.recipes__HLS__content__chicken__price__grams_properties {
+		position: relative;
+		left: -839px;
+		top: 11px;
+	}
+	.recipes__HLS__content__chicken__stars_properties {
+		position: relative;
+		left: -837px;
+		top: 5px;
+		width: 83.11px;
+		height: 10.17px;
+	}
+	.recipes__HLS__content__chicken__basket_properties {
+		width: 66px;
+		height: 36px;
+		position: relative;
+		left: -667px;
+		top: -45px;
+	}
+	.recipes__HLS__content__chicken_properties {
+		position: relative;
+		left: 248px;
+	}
+
+	.new__title_row {
+		display: flex;
+		flex-direction: row;
+	}
+	.new__title__products_properties {
+		color: #121212;
+		margin: -6px 0 0 -435px;
+		letter-spacing: -0.45px;
+	}
+	.new__title__pic_properties {
+		width: 80px;
+		height: 35px;
+		margin: -10px 0 0 877px;
+	}
+	.new__card_row {
+		display: flex;
+		flex-direction: row;
+	}
+	.new__card__tomatoes_column {
+		display: flex;
+		flex-direction: column;
+	}
+	.new__card__tomatoes__pic_properties {
+		margin: 17px 0 0 -432px;
+		width: 250px;
+		height: 381px;
+	}
+	.new__card__tomatoes__heart_properties {
+		width: 20px;
+		height: 18,35px;
+		margin: -362px 0 0 -220px;
+	}
+	.new__card__tomatoes__name_properties {
+		margin: 212px 0 0 -420px;
+		color: #424141;
+	}
+	.new__card__tomatoes__provider_properties {
+		color: #89817F;
+		margin: 9px 0 0 -420px;
+	}
+	.new__card__tomatoes__price__before_properties {
+		text-decoration: line-through;
+		color: #FC1F1C;
+		position: relative;
+		left: -420px;
+		top: -12px;
+	}
+	.new__card__tomatoes__price__before__number_properties {
+		color: #000000;
+	}
+	.new__card__tomatoes__price__rubles_properties {
+		color: #FC1F1C;
+		position: relative;
+		top: 10px;
+		left: -456px;
+	}
+	.new__card__tomatoes__price__grams_properties {
+		color: #3D3C3C;
+		position: relative;
+		top: 11px;
+		left: -457px;
+	}
+	.new__card__tomatoes__stars_properties {
+		margin: 5px 0 0 -418px;
+		width: 83.11px;
+		height: 10.17px;
+	}
+	.new__card__tomatoes__basket_properties {
+		width: 66px;
+		height: 36px;
+		margin: -51px 0 0 -249px;
+	}
+	.new__card__mincemeat_column {
+		display: flex;
+		flex-direction: column;
+	}
+	.new__card__mincemeat__pic_properties {
+		margin: 17px 0 0 -297px;
+		width: 250px;
+		height: 381px;
+	}
+	.new__card__mincemeat__heart_properties {
+		width: 20px;
+		height: 18,35px;
+		margin: -362px 0 0 -85px;
+	}
+	.new__card__mincemeat__name_properties {
+		margin: 212px 0 0 -285px;
+		color: #424141;
+	}
+	.new__card__mincemeat__provider_properties {
+		color: #89817F;
+		margin: 8px 0 0 -285px;
+	}
+	.new__card__mincemeat__price__before_properties {
+		text-decoration: line-through;
+		color: #FC1F1C;
+		position: relative;
+		left: -285px;
+		top: -11px;
+	}
+	.new__card__mincemeat__price__before__number_properties {
+		color: #000000;
+	}
+	.new__card__mincemeat__price__rubles_properties {
+		color: #FC1F1C;
+		position: relative;
+		top: 11px;
+		left: -324px;
+	}
+	.new__card__mincemeat__price__grams_properties {
+		color: #3D3C3C;
+		position: relative;
+		top: 11px;
+		left: -325px;
+	}
+	.new__card__mincemeat__stars_properties {
+		margin: 5px 0 0 -283px;
+		width: 83.11px;
+		height: 10.17px;
+	}
+	.new__card__mincemeat__basket_properties {
+		width: 66px;
+		height: 36px;
+		margin: -50px 0 0 -114px;
+	}
+	.new__card__cheese_column {
+		display: flex;
+		flex-direction: column;
+	}
+	.new__card__cheese_properties {
+		margin: 1px 0 0 -94px;
+	}
+	.new__card__cheese__pic_properties {
+		margin: 16px 0 0 -67px;
+		width: 250px;
+		height: 381px;
+	}
+	.new__card__cheese__heart_properties {
+		width: 20px;
+		height: 18,35px;
+		margin: -362px 0 0 145px;
+	}
+	.new__card__cheese__name_properties {
+		margin: 211px 0 0 -55px;
+		color: #424141;
+	}
+	.new__card__cheese__provider_properties {
+		color: #89817F;
+		margin: 9px 0 0 -55px;
+	}
+	.new__card__cheese__price__before_properties {
+		text-decoration: line-through;
+		color: #FC1F1C;
+		position: relative;
+		left: -55px;
+		top: -11px;
+	}
+	.new__card__cheese__price__before__number_properties {
+		color: #000000;
+	}
+	.new__card__cheese__price__rubles_properties {
+		color: #FC1F1C;
+		position: relative;
+		top: 11px;
+		left: -93px;
+	}
+	.new__card__cheese__price__grams_properties {
+		color: #3D3C3C;
+		position: relative;
+		top: 11px;
+		left: -93px;
+	}
+	.new__card__cheese__stars_properties {
+		margin: 5px 0 0 -54px;
+		width: 83.11px;
+		height: 10.17px;
+	}
+	.new__card__cheese__basket_properties {
+		width: 66px;
+		height: 36px;
+		margin: -50px 0 0 116px;
+	}
+	.new__card__yogurt_column {
+		display: flex;
+		flex-direction: column;
+	}
+	.new__card__yogurt__pic_properties {
+		margin: 16px 0 0 22px;
+		width: 250px;
+		height: 381px;
+	}
+	.new__card__yogurt__heart_properties {
+		width: 20px;
+		height: 18,35px;
+		margin: -362px 0 0 234px;
+	}
+	.new__card__yogurt__name_properties {
+		margin: 211px 0 0 34px;
+		color: #424141;
+	}
+	.new__card__yogurt__provider_properties {
+		color: #89817F;
+		margin: 9px 0 0 34px;
+	}
+	.new__card__yogurt__price__before_properties {
+		text-decoration: line-through;
+		color: #FC1F1C;
+		position: relative;
+		left: 35px;
+		top: -11px;
+	}
+	.new__card__yogurt__price__before__number_properties {
+		color: #000000;
+	}
+	.new__card__yogurt__price__rubles_properties {
+		color: #FC1F1C;
+		position: relative;
+		top: 11px;
+		left: -1px;
+	}
+	.new__card__yogurt__price__volume_properties {
+		color: #3D3C3C;
+		position: relative;
+		top: 11px;
+		left: -2px;
+	}
+	.new__card__yogurt__stars_properties {
+		margin: 5px 0 0 35px;
+		width: 83.11px;
+		height: 10.17px;
+	}
+	.new__card__yogurt__basket_properties {
+		width: 66px;
+		height: 36px;
+		margin: -50px 0 0 205px;
+	}
+	.new__card__yogurt_properties {
+		margin: 1px 0 0 0;
+	}
+	.specials_properties {
+		margin: 92px 0 0 0;
+	}
+	.specials__title_row {
+		display: flex;
+		flex-direction: row;
+	}
+	.specials__title__products_properties {
+		color: #121212;
+		margin: -6px 0 0 -435px;
+		letter-spacing: -0.45px;
+	}
+	.specials__title__pic_properties {
+		width: 80px;
+		height: 35px;
+		margin: -9px 0 0 635px;
+	}
+	.specials__card_row {
+		display: flex;
+		flex-direction: row;
+	}
+	.specials__card__wild_column {
+		display: flex;
+		flex-direction: column;
+	}
+	.specials__card__wild__pic_properties {
+		margin: 17px 0 0 -432px;
+		width: 250px;
+		height: 381px;
+	}
+	.specials__card__wild__heart_properties {
+		width: 20px;
+		height: 18,35px;
+		margin: -362px 0 0 -220px;
+	}
+	.specials__card__wild__name_properties {
+		margin: 212px 0 0 -420px;
+		color: #424141;
+	}
+	.specials__card__wild__provider_properties {
+		color: #89817F;
+		margin: 9px 0 0 -420px;
+	}
+	.specials__card__wild__price__before_properties {
+		text-decoration: line-through;
+		color: #FC1F1C;
+		position: relative;
+		left: -420px;
+		top: -12px;
+	}
+	.specials__card__wild__price__before__number_properties {
+		color: #000000;
+	}
+	.specials__card__wild__price__rubles_properties {
+		color: #FC1F1C;
+		position: relative;
+		top: 10px;
+		left: -452px;
+	}
+	.specials__card__wild__price__grams_properties {
+		color: #3D3C3C;
+		position: relative;
+		top: 11px;
+		left: -452px;
+	}
+	.specials__card__wild__stars_properties {
+		margin: 5px 0 0 -418px;
+		width: 83.11px;
+		height: 10.17px;
+	}
+	.specials__card__wild__basket_properties {
+		width: 66px;
+		height: 36px;
+		margin: -51px 0 0 -249px;
+	}
+	.specials__card__simirenko_column {
+		display: flex;
+		flex-direction: column;
+	}
+	.specials__card__simirenko_properties {
+		margin: 0 0 0 6px;
+	}
+	.specials__card__simirenko__pic_properties {
+		margin: 17px 0 0 -297px;
+		width: 250px;
+		height: 381px;
+	}
+	.specials__card__simirenko__heart_properties {
+		width: 20px;
+		height: 18,35px;
+		margin: -362px 0 0 -85px;
+	}
+	.specials__card__simirenko__name_properties {
+		margin: 212px 0 0 -285px;
+		color: #424141;
+	}
+	.specials__card__simirenko__provider_properties {
+		color: #89817F;
+		margin: 8px 0 0 -285px;
+	}
+	.specials__card__simirenko__price__before_properties {
+		text-decoration: line-through;
+		color: #FC1F1C;
+		position: relative;
+		left: -285px;
+		top: -11px;
+	}
+	.specials__card__simirenko__price__before__number_properties {
+		color: #000000;
+	}
+	.specials__card__simirenko__price__rubles_properties {
+		color: #FC1F1C;
+		position: relative;
+		top: 11px;
+		left: -319px;
+	}
+	.specials__card__simirenko__price__grams_properties {
+		color: #3D3C3C;
+		position: relative;
+		top: 11px;
+		left: -320px;
+	}
+	.specials__card__simirenko__stars_properties {
+		margin: 5px 0 0 -283px;
+		width: 83.11px;
+		height: 10.17px;
+	}
+	.specials__card__simirenko__basket_properties {
+		width: 66px;
+		height: 36px;
+		margin: -50px 0 0 -114px;
+	}
+	.specials__card__radish_column {
+		display: flex;
+		flex-direction: column;
+	}
+	.specials__card__radish_properties {
+		margin: 1px 0 0 -79px;
+	}
+	.specials__card__radish__pic_properties {
+		margin: 16px 0 0 -67px;
+		width: 250px;
+		height: 381px;
+	}
+	.specials__card__radish__heart_properties {
+		width: 20px;
+		height: 18,35px;
+		margin: -362px 0 0 145px;
+	}
+	.specials__card__radish__name_properties {
+		margin: 211px 0 0 -55px;
+		color: #424141;
+	}
+	.specials__card__radish__provider_properties {
+		color: #89817F;
+		margin: 9px 0 0 -55px;
+	}
+	.specials__card__radish__price__before_properties {
+		text-decoration: line-through;
+		color: #FC1F1C;
+		position: relative;
+		left: -55px;
+		top: -11px;
+	}
+	.specials__card__radish__price__before__number_properties {
+		color: #000000;
+	}
+	.specials__card__radish__price__rubles_properties {
+		color: #FC1F1C;
+		position: relative;
+		top: 11px;
+		left: -90px;
+	}
+	.specials__card__radish__price__grams_properties {
+		color: #3D3C3C;
+		position: relative;
+		top: 11px;
+		left: -91px;
+	}
+	.specials__card__radish__stars_properties {
+		margin: 5px 0 0 -54px;
+		width: 83.11px;
+		height: 10.17px;
+	}
+	.specials__card__radish__basket_properties {
+		width: 66px;
+		height: 36px;
+		margin: -50px 0 0 116px;
+	}
+	.specials__card__yogurt_column {
+		display: flex;
+		flex-direction: column;
+	}
+	.specials__card__yogurt__pic_properties {
+		margin: 16px 0 0 22px;
+		width: 250px;
+		height: 381px;
+	}
+	.specials__card__yogurt__heart_properties {
+		width: 20px;
+		height: 18,35px;
+		margin: -362px 0 0 234px;
+	}
+	.specials__card__yogurt__name_properties {
+		margin: 211px 0 0 34px;
+		color: #424141;
+	}
+	.specials__card__yogurt__provider_properties {
+		color: #89817F;
+		margin: 9px 0 0 34px;
+	}
+	.specials__card__yogurt__price__before_properties {
+		text-decoration: line-through;
+		color: #FC1F1C;
+		position: relative;
+		left: 35px;
+		top: -11px;
+	}
+	.specials__card__yogurt__price__before__number_properties {
+		color: #000000;
+	}
+	.specials__card__yogurt__price__rubles_properties {
+		color: #FC1F1C;
+		position: relative;
+		top: 11px;
+		left: -1px;
+	}
+	.specials__card__yogurt__price__volume_properties {
+		color: #3D3C3C;
+		position: relative;
+		top: 11px;
+		left: -2px;
+	}
+	.specials__card__yogurt__stars_properties {
+		margin: 5px 0 0 35px;
+		width: 83.11px;
+		height: 10.17px;
+	}
+	.specials__card__yogurt__basket_properties {
+		width: 66px;
+		height: 36px;
+		margin: -50px 0 0 205px;
+	}
+	.specials__card__yogurt_properties {
+		margin: 1px 0 0 0;
+	}
+}
+/*@media (max-width: 1536px) {
+	body {
+		max-width: 1536px;
+	}
+}*/
+/*@media (max-width: 1366px) {
+	body {
+		width: 1366px;
+	}
+}
+@media (max-width: 800px) {
+	body {
+		width: 800px;
+	}
+}
+@media (max-width: 360px) {
+	body {
+		width: 360px;
+	}
+}*/
